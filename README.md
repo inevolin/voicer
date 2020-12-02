@@ -22,6 +22,13 @@ You can freely use the demo url, or you can host this software on your own serve
 Make sure to change the room ID in the URL to a more complex one if you wish to enjoy some privacy.
 Everyone who connects to the same room will see each other's texts.
 
+### even while gaming
+There are several methods for seeing the chat while gaming:
+
+1. You can put your mobile device next to your computer screen to follow the conversation.
+2. You can use a second screen.
+3. Always-on-top tools such as [Pennywise](https://github.com/kamranahmedse/pennywise) may help, but the microphone feature doesn't seem to work so it's only good for reading.
+
 ## advanced usage
 
 ### tech stack
