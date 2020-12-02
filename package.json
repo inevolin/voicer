@@ -1,0 +1,28 @@
+{
+  "name": "voicer",
+  "version": "1.0.0",
+  "description": "speech-to-text",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/healzer/voicer.git"
+  },
+  "keywords": [
+    "speech-to-text"
+  ],
+  "author": "Ilya Nevolin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/healzer/voicer/issues"
+  },
+  "homepage": "https://github.com/healzer/voicer#readme"
+}
