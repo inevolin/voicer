@@ -1,7 +1,7 @@
 # voicer
 A cloud-based software that transcribes speech to text.
 
-Designed for hearing impaired people to communicate with their friends more easily.
+Designed for hearing impaired people to communicate with their friends more easily. Or follow an audio conversation without any sound.
 
 ![demo screenshot](https://i.imgur.com/X0M8uz5.jpg)
 
