@@ -63,7 +63,7 @@ $(document).on('click', '#submit', () => {
     alert("username too short")
     return;
   }
-  socket = io.connect('https://nevolin.be/', {path: '/voicer/socket.io'});
+  socket = io.connect('/', {path: '/socket.io'});
 
   socket.emit('user/join', {name: username, roomId: roomId})
 
