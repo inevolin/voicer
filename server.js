@@ -45,7 +45,7 @@ io.on('connection', (socket) => {
   })
 });
 
-const port = 1522;
+const port = 8080;
 const host = '0.0.0.0'; // or localhost
 http.listen(port, host, () => {
   console.log('listening on *:' + port);
