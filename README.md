@@ -50,10 +50,11 @@ For some unkown reason the API may stop working after several seconds/minutes/ho
 ### mobile
 On Android you have to keep the Chrome window open at all times, if you minimize or sleep your phone, the API stops working - you'll have to refresh and reconnect again. I haven't tested it on iOS yet.
 
-## support
+## Contact
+
 For enquiries or issues get in touch with me:
 
-Name: Ilya Nevolin
+Name: [Ilya Nevolin](https://www.linkedin.com/in/iljanevolin/)
 
 Email: ilja.nevolin@gmail.com
 
